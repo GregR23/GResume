@@ -1,0 +1,40 @@
+body { background-color: black
+}
+a {
+    color: grey;
+}
+
+#me {
+	background-color:black;
+	text-align:center;
+	color: grey;
+        border:3px solid blue;
+	width:470px;
+	height:700px; 
+}
+
+#r {
+	background-color:black;
+	width:1332px;
+	height:940px;
+}
+
+#rcv {
+	background-color:black;
+	color:grey;
+        border:3px solid blue;
+display:inline-block;
+	width:660px;
+	height:801px;
+}
+
+#rcv2 {
+	background-color:black;
+	text-align:center;
+	float:right;
+	color: grey;
+        border:3px solid blue;
+display:inline-block;
+	width:660px;
+	height:801px;
+}
